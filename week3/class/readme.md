@@ -17,3 +17,8 @@
 - - -
 
 ![Alt text](./img/maxcount2.png)
+
+## 디지털 숫자 프로그램
+- - -
+
+![Alt text](./img/digital.png)
