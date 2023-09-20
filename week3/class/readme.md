@@ -27,3 +27,8 @@
 - - -
 
 ![Alt text](./img/slidebar.png)
+
+## 화살표로 움직이기
+- - -
+
+![Alt text](./img/move.png)
