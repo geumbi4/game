@@ -26,7 +26,7 @@
 ## 슬라이드바 표시
 - - -
 
-![Alt text](./img/slidebar.png)
+![Alt text](./img/slidebarr.png)
 
 ## 화살표로 움직이기
 - - -
