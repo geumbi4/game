@@ -13,3 +13,7 @@
 
 ![Alt text](./img/maxcount.png)
 
+## 최대 자리수 계산하기2
+- - -
+
+![Alt text](./img/maxcount2.png)
