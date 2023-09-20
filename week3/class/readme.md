@@ -21,4 +21,4 @@
 ## 디지털 숫자 프로그램
 - - -
 
-![Alt text](./img/digital.png)
+![Alt text](./img/digitaloutput.png)
