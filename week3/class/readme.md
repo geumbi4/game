@@ -22,3 +22,8 @@
 - - -
 
 ![Alt text](./img/digitaloutput.png)
+
+## 슬라이드바 표시
+- - -
+
+![Alt text](./img/slidebar.png)
