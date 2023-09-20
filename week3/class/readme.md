@@ -7,3 +7,9 @@
 - - -
 
 ![Alt text](./img/numberoutput2.png)
+
+## 최대 자리수 계산하기
+- - -
+
+![Alt text](./img/maxcount.png)
+
